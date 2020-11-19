@@ -1,4 +1,6 @@
 ### Igor Silva
+  Front-end developer at Red Ventures!
+
 
 
 #### My badges
