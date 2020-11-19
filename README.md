@@ -1,6 +1,6 @@
 ### Igor Silva
   Front-end developer at Red Ventures!
-  Análise e Desenvolvimento de Sistemas - FIAP 
+  <br>Análise e Desenvolvimento de Sistemas - FIAP 
 
 
 
