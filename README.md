@@ -1,7 +1,7 @@
 ### Igor Silva
 
 
-## My badges
+#### My badges
 ![](https://badgeslab-images-bucket.s3-sa-east-1.amazonaws.com/redventures/igor-silva.png)
 
 <!--
